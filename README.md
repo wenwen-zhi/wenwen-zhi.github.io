@@ -6,6 +6,6 @@
 
 ## 博客
 
-- CSDN:<https://blog.csdn.net/wen_zhi?type=blog>
+- CSDN: <https://blog.csdn.net/wen_zhi?type=blog>
   - [前端知识总结](https://blog.csdn.net/wen_zhi/article/details/128554658?spm=1001.2014.3001.5502)
   - [JavaScript学习笔记](https://blog.csdn.net/wen_zhi/article/details/129868066?spm=1001.2014.3001.5502)
